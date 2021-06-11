@@ -150,6 +150,60 @@ resistencia medida de 3.0 Ω a 20°C. ¿Cómo se compara este valor con la resis
    ![imagen](https://user-images.githubusercontent.com/85263529/121634055-8d7af100-ca49-11eb-8379-be7ff839cc26.png)
    
    
+   31.- Un dispositivo eléctrico tiene una respuesta lineal de temperatura. El dispositivo tiene una Resistencia de 120 Ω a una temperatura de -20 oC y de 190 Ω a 120 oC.
+a. Calcule la Resistencia a una temperatura de 0 oC.
+b. Calcule la Resistencia a una temperatura de 80 oC.
+c. Determine la intercepción de temperatura del material. 
+
+![image](https://user-images.githubusercontent.com/85263529/121636645-cf0d9b00-ca4d-11eb-8673-a6b449da1133.png)
+
+Tipos de resistores  
+33.- Un resistor variable de 10 kΩ tiene su contacto deslizante (terminal movible b) inicialmente en la terminal inferior c. Determine la resistencia Rab entre las terminales a y b, y la resistencia Rbc entre las terminales b y c dadas las siguientes condiciones: 
+
+![image](https://user-images.githubusercontent.com/85263529/121636741-fd8b7600-ca4d-11eb-8fd6-240d05d5011a.png)
+
+
+![image](https://user-images.githubusercontent.com/85263529/121636769-08460b00-ca4e-11eb-8804-53166e8e6257.png)
+
+Código de colores de resistores 
+35.- Dados los resistores con los siguientes códigos de colores (de izquierda a derecha) determine la resistencia, la tolerancia y la confiabilidad de cada componente. Exprese la incertidumbre en porcentaje y en ohms. 
+
+![image](https://user-images.githubusercontent.com/85263529/121636835-1dbb3500-ca4e-11eb-8bf5-5c6a351c7f1b.png)
+
+Mediciones de resistencia: el óhmetro
+
+37.- Explique cómo se puede usar el óhmetro para determinar si un foco se fundió. 
+Se realiza una conexión entre los terminales, si el óhmetro me indica que la conexión está abierta, significa que el foco se fundió.
+
+39.- Explique cómo podría usar un óhmetro para terminar aproximadamente cuanto cable queda en un carrete de alambre de cobre AWG 24.
+El AWG 24 tiene una Resistencia de 25.7 Ω/1000 pies. Se mide la resistencia entre los dos extremos y se calcula la longitud con 
+
+![image](https://user-images.githubusercontent.com/85263529/121637131-90c4ab80-ca4e-11eb-987a-f2ad9db0c503.png)
+
+Termistores 
+
+41.-  Un termistor tiene las características que se muestran en la figura 3-23
+
+![image](https://user-images.githubusercontent.com/85263529/121637260-ba7dd280-ca4e-11eb-82bf-e2a3c5279a57.png)
+
+Conductancia 
+43.- Calcula la conductancia de las siguientes resistencias:
+ 
+a. 0,25Ω
+b. 500Ω
+c. 250kΩ
+d. 12.5 MΩ
+
+![image](https://user-images.githubusercontent.com/85263529/121637513-16485b80-ca4f-11eb-94cf-b2bfcb9b40cb.png)
+
+45.- Determine la conductancia de 1000 m de alambre de cobre sólido AWG 30 a una temperatura de 20℃.
+
+![image](https://user-images.githubusercontent.com/85263529/121637566-2f510c80-ca4f-11eb-8c50-942130e9ac19.png)
+
+
+
+
+   
    
    4.VIDEO
    
