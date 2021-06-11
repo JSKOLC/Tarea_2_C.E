@@ -19,6 +19,10 @@ INTEGRANTES:
 CAPITULO 3, 4
 
 MARCO TEORICO:
+
+![image](https://user-images.githubusercontent.com/85263529/121630899-a41e4980-ca43-11eb-9248-7e367fcb7c11.png)
+
+
 ![image](https://user-images.githubusercontent.com/85263529/121625692-8fd54f00-ca39-11eb-9764-6d9b4af155d5.png)
 
 OBJETIVOS:
