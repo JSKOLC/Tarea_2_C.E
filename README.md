@@ -148,6 +148,28 @@ resistencia medida de 3.0 Ω a 20°C. ¿Cómo se compara este valor con la resis
    29.- Un calentador eléctrico está hecho de alambre de nicromo. El alambre tiene una resistencia de 15.2Ω a una temperatura de 20°C. Determine la resistencia del alambre de nicromo cuando su temperatura aumente a 260°C.
        
    ![imagen](https://user-images.githubusercontent.com/85263529/121634055-8d7af100-ca49-11eb-8379-be7ff839cc26.png)
+   
+   
+   
+   4.VIDEO
+   
+   
+   
+   5.CONCLUSIONES
+   
+   
+   . Se puede concluir que la corriente fluye por un circuito donde la cantidad de corriente que fluye por el mismo es directamente proporcionala la fuerza aplicada. Esto puede ser visto en los datos obtenidos en la primera parte del experimento donde a medidaque aumentaba el voltaje también aumentaba la corriente. Sin embargo podemosdecir que la cantidad de corriente es inversamente proporcionala la resistencia.
+   
+   . Analizamos la proporcionalidad entre la corriente eléctrica y la diferencia de potencial, en dondees directa para elementos óhmicos e indirecta para elementos no óhmicos.
+   
+   . La ley de Ohm es una ley básica de loscircuitos eléctricos que estableceladiferencia de potencialVque aplicamos entre los extremos de un conductordeterminado es proporcional a la intensidad de lacorrienteI que circula por elcitado conductor
+   
+   .Laintensidad de corrienteque atraviesa un circuito es directamente proporcionalalvoltajeotensióndel mismo e inversamente proporcional a laresistenciaquepresenta. Donde I es laintensidadque se mide en amperios (A), V elvoltajequese mide en voltios (V); y R laresistenciaque se mide en ohmios (Ω)
+   
+   
+   6. BIBLIOGRAFIA
+
+Robbins,A Miller,W. 2007-2008, Análisis de circuitos teoría y practica, cuarta edición, Santa Fe, México, Editores S.A. de C.V.,una compañía de Cengage Learning. Inc
 
 
 
@@ -188,9 +210,7 @@ resistencia medida de 3.0 Ω a 20°C. ¿Cómo se compara este valor con la resis
 
 
 
-4. VIDEO
-5. CONCLUSIONES
-6. BIBLIOGRAFÍA
+
 
 
 
