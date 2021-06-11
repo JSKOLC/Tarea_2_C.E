@@ -27,4 +27,3 @@ OBJETIVOS:
   
   -Medir diferencia de potencial e intensidad de corriente en circuitos con diferentes elementos eléctricos o electrónicos. Determinar la relación entre ellos.
 
-olaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
