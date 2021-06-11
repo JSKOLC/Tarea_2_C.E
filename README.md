@@ -397,33 +397,9 @@ requiere?
   por los valores de voltaje y resisteia
   
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    
-
-
-
-
-
- 
-
-   
-   
    4.VIDEO
    
-   
+   https://www.youtube.com/watch?v=l7XTm5rZDek
    
    5.CONCLUSIONES
    
