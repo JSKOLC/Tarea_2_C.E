@@ -3,6 +3,9 @@
 2. MARCO TEORICO
 
 
+![image](https://user-images.githubusercontent.com/85263529/121628839-a4b4e100-ca3f-11eb-98fa-406f0ab0545d.png)
+
+
 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS
 
    1.-  Determine la resistencia, a 20ºC, de 100 m de alambre de aluminio sólido que tiene los siguientes radios:
